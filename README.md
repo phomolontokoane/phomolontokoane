@@ -28,6 +28,14 @@
 
 ---
 
+## ✅ Certifications
+
+### 📜 Meta Front-End Developer Professional Certificate  
+Earned from **Meta via Coursera**  
+🗓️ Completed in 2025  
+
+[![Meta Certificate](https://coursera.org/account/accomplishments/professional-cert/GZT098AHJ9CN)](https://www.coursera.org/account/accomplishments/professional-cert/GZT098AHJ9CN)
+
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
