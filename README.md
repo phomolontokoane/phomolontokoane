@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phomolo Ntokoane
 
-🎓 2nd Year Computer Science & Physics Student  
+🎓 3rd Year Electronics Engineering Student  
 💻 Front-End Web Developer | 🚀 Aspiring Full-Stack Engineer  
 🌍 Based in Maseru, Lesotho  
 
